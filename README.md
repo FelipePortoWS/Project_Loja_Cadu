@@ -31,7 +31,7 @@ Weida Viana [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-th
 
 Gustavo Oliveira [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/oliveiragusta/)
 
-Felipe Porto [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipe-wenceslau-b01844299/)
+Felipe Porto [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)]([https://www.linkedin.com/in/felipe-wenceslau-b01844299/](https://www.linkedin.com/in/felipe-porto-b01844299/))
 
 
 
